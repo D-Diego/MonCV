@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mon_cv_app</string>
+    <string name="java">Java</string>
+    <string name="php">PHP</string>
+    <string name="experience">Experience</string>
+    <string name="formation">Formation</string>
+    <string name="comp_tence">Compétence</string>
+    <string name="mesProjets">Mes Projets</string>
+    <string name="langages">Langages</string>
+    <string name="myname">DURAN Diego</string>
+    <string name="phone">06 05 06 06 04</string>
+    <string name="email">Duran.diego75@outlook.fr</string>
+    <string name="adresse">Saint-dénis</string>
+
+</resources>
